@@ -1,4 +1,4 @@
-# HyperKD: Lifelong Hyperspectral Image Classification With Cross-Spectral–Spatial Knowledge Distillation
+# Exemplar-Free Lifelong Hyperspectral Image  Classification With Spectral Consistency
 
 ## Environment
 PyTorch 2.1.1, CUDA 11.8, and Ubuntu 20.04
